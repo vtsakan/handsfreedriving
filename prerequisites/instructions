@@ -2,4 +2,6 @@
 
 Το αρχικό σημείο για την υλοποίηση του έργου, όσον αφορά το λογισμικό του Raspberyy Pi 3 είναι:
 1. Εγκατάσταση του Raspbian, ώς λειτουργικού συστήματος του Pi (https://www.raspberrypi.org/downloads/raspbian/)
-2. 
+2. Συναρμολόγηση του Alphabot2, ακολουθώντας τις εντολές που βρίσκονται εδώ https://www.mouser.com/pdfdocs/Alphabot2-user-manual-en.pdf
+3. Εγκατάσταση των απαραίτητων βιβλιοθηκών για την εγκατάσταση του usb μικρόφωνου απο εδώ https://www.alatortsev.com/2018/06/28/speech-processing-on-raspberry-pi-3-b/
+4. Εκγατάσταση της βιλιοθήκης SpeechRecongition (pip install SpeechRecognition). Σχετικές πληροφορίες εδώ (https://pypi.org/project/SpeechRecognition/).
